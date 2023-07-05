@@ -2,7 +2,7 @@ package zohobooks;
 
 import java.util.Arrays;
 import java.util.Scanner;
-//Jegan Code Final
+//Jegan Code Finals
 //main branch
 
 public class IncreasingPattern {
